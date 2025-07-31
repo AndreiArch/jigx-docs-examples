@@ -1,15 +1,9 @@
 # Overview
 
-:::hint{type="danger"}
-🚧 **Notice: Documentation is currently unstable**
-&#x20;Due to ongoing issues with Archbee, some content may be incomplete or missing. Jigx is aware of the situation and will be transitioning to a new documentation platform soon. We appreciate your patience and understanding.
-:::
-
 Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
 
-|                                                               |                                                                          |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [Data Providers](Data%20Providers.md)                         | [Jig Types](Jig%20Types.md)                                              |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [Components](Components.md)                                   | [Actions](Actions.md)                                                    |
 | [Custom components (Alpha)](Custom%20components%20_Alpha_.md) | [Custom templates](Custom%20components%20_Alpha_/Templates%20_Alpha_.md) |
 | [widgets](Widgets.md)                                         | [Preview](Preview.md)                                                    |
