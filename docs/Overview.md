@@ -7,9 +7,26 @@
 
 Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
 
-|                                                               |                                                                          |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------ |
+Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
+
+[](https://drive.google.com/file/d/12P093B2JkMJw0rc9tagtUD-132AGVWRe/view?usp=drive_link)
+
+::::CodeDrawer{title="Code Section Title" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
+:::CodeblockTabsExamples
+```javascript
+yes yes
+```
+:::
+
+:::CodeblockTabsResponses
+```javascript
+yes yes
+```
+:::
+::::
+
 | [Data Providers](Data%20Providers.md)                         | [Jig Types](Jig%20Types.md)                                              |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [Components](Components.md)                                   | [Actions](Actions.md)                                                    |
 | [Custom components (Alpha)](Custom%20components%20_Alpha_.md) | [Custom templates](Custom%20components%20_Alpha_/Templates%20_Alpha_.md) |
 | [widgets](Widgets.md)                                         | [Preview](Preview.md)                                                    |
