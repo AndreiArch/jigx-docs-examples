@@ -1,26 +1,19 @@
 # Overview
 
-:::hint{type="danger"}
-🚧 **Notice: Documentation is currently unstable**
-&#x20;Due to ongoing issues with Archbee, some content may be incomplete or missing. Jigx is aware of the situation and will be transitioning to a new documentation platform soon. We appreciate your patience and understanding.
-:::
-
 Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
 
 Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
 
-[](https://drive.google.com/file/d/12P093B2JkMJw0rc9tagtUD-132AGVWRe/view?usp=drive_link)
+[https://drive.google.com/file/d/12P093B2JkMJw0rc9tagtUD-132AGVWRe/view?usp=drive\_link](https://drive.google.com/file/d/12P093B2JkMJw0rc9tagtUD-132AGVWRe/view?usp=drive_link)
 
-::::CodeDrawer{title="Code Section Title" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
+::::CodeDrawer{isResponseExpanded="true" title="Code Section Title" codeEditorData="[object Object]" responsesEditorData="[object Object]"}
 :::CodeblockTabsExamples
-```javascript
-yes yes
+```none
 ```
 :::
 
 :::CodeblockTabsResponses
-```javascript
-yes yes
+```none
 ```
 :::
 ::::
