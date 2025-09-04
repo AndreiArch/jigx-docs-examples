@@ -1,36 +1,13 @@
 # Overview
 
+:::hint{type="danger"}
+🚧 **Notice: Documentation is currently unstable**
+&#x20;Due to ongoing issues with Archbee, some content may be incomplete or missing. Jigx is aware of the situation and will be transitioning to a new documentation platform soon. We appreciate your patience and understanding.
+:::
+
+
+
 Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
-
-asdasdasdasdasd
-
-::File[]{src="https://archbee-doc-uploads-qa.s3.amazonaws.com/HCIek7I0UxvyNHQ0EFzVX-Ws1t1UzX5mcdYKzhCy3cX-20250714-091902.json" signedSrc="https://archbee-doc-uploads-qa.s3.amazonaws.com/HCIek7I0UxvyNHQ0EFzVX-Ws1t1UzX5mcdYKzhCy3cX-20250714-091902.json" label="Futurex-ra-requests-7.0.0-resolved-1 (3).json"}
-
-::::CodeDrawer{title="Custom code drawer" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
-:::CodeblockTabsExamples
-```javascript
-testJS
-```
-
-```csharp
-testC
-```
-:::
-
-:::CodeblockTabsResponses
-```javascript
-test response
-```
-:::
-::::
-
-asdasdasdasdasdasdasdasdas
-
-das
-
-:::hint{type="info"}
-dsadasdsadasdas
-:::
 
 Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
 
@@ -38,12 +15,12 @@ Welcome to the reference documentation for Jigx. This guide provides detailed in
 
 ::::CodeDrawer{isResponseExpanded="true" title="Code Section Title" codeEditorData="[object Object]" responsesEditorData="[object Object]"}
 :::CodeblockTabsExamples
-```none
+```text
 ```
 :::
 
 :::CodeblockTabsResponses
-```none
+```text
 ```
 :::
 ::::
