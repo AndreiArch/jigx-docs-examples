@@ -1,10 +1,4 @@
----
-title: Setting up your solution
-slug: 1gfe-setting-up-your-solution
-description: Learn how to publish and use a sample solution with JigxBuilder in this comprehensive document. Discover the step-by-step instructions for publishing and viewing the solution in JigxManagement, as well as assigning users to it. Take advantage of dynamic d
-createdAt: Mon Jun 13 2022 19:39:00 GMT+0000 (Coordinated Universal Time)
-updatedAt: Thu Jan 18 2024 14:09:17 GMT+0000 (Coordinated Universal Time)
----
+# Setting up your solution
 
 With the sample solution in your possession, you are now equipped with all the necessary tools to assist you on your journey toward becoming an extraordinary Jigx Builder.
 
@@ -21,7 +15,7 @@ To see the samples in the Jigx App, and experience the functionality first-hand,
 The solution will not be visible in Jigx Management until the solution is published.
 :::
 
-### **Assigning users to the solution**
+### Assigning users to the solution
 
 Now that the solution has been published, the right people need access.
 
