@@ -258,3 +258,4 @@
       * [onPress](<docs/Widgets/Content widget components/onPress.md>)
       * [titles](<docs/Widgets/Content widget components/titles.md>)
       * [trend](<docs/Widgets/Content widget components/trend.md>)
+      * [Remove Individual Core Blocks](<./Widgets/Content widget components/trend.md>) (Gutenberg, WordPress)
