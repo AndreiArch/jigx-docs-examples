@@ -1,6 +1,18 @@
 # Table of contents
 
 * [Jigx Examples](README.md)
+
+ ## heading2
+ 
+- [Actions](docs/Actions.md) (meta, facebook)
+- [Actions](docs/Actions.md)
+ - [Actions](docs/Actions.md) (meta, facebook)
+
+ + [Actions](docs/Actions.md) (meta, facebook)
+   + [Actions](docs/Actions.md) (meta, facebook)
+
+ ## category2
+ 
 * [docs](docs/README.md)
   * [Actions](docs/Actions.md) (meta, facebook)
   * [Components](docs/Components.md)
