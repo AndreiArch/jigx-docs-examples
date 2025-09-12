@@ -2,7 +2,7 @@
 
 * [Jigx Examples](README.md)
 * [docs](docs/README.md)
-  * [Actions](docs/Actions.md)(meta, facebook)
+  * [Actions](docs/Actions.md) (meta, facebook)
   * [Components](docs/Components.md)
   * [Custom components (Alpha)](<docs/Custom components _Alpha_.md>)
   * [Data Providers](<docs/Data Providers.md>)
@@ -18,7 +18,7 @@
   * [User Profile](<docs/User Profile.md>)
   * [Widgets](docs/Widgets.md)
   * [summary](docs/summary.md)
-  * [Actions](docs/actions-1/README.md)(meta, facebook)
+  * [Actions](docs/actions-1/README.md) (meta, facebook)
     * [Common action properties](<docs/Actions/Common action properties.md>)
     * [action-list](docs/Actions/action-list.md)
     * [confirm](docs/Actions/confirm.md)
