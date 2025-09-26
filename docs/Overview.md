@@ -1,13 +1,14 @@
 # Overview
 
-:::hint{type="danger"}
-🚧 **Notice: Documentation is currently unstable**
-&#x20;Due to ongoing issues with Archbee, some content may be incomplete or missing. Jigx is aware of the situation and will be transitioning to a new documentation platform soon. We appreciate your patience and understanding.
+Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
+
+:::ContentSnippet{docRefId="N-6SYX8BjMC6efPE3ZFaU"}
+
 :::
 
+:::ContentSnippet{docRefId="Fz8kbwIgrLAMlvGnfPVud"}
 
-
-Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
+:::
 
 Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
 
@@ -25,15 +26,64 @@ Welcome to the reference documentation for Jigx. This guide provides detailed in
 :::
 ::::
 
-| [Data Providers](Data%20Providers.md)                         | [Jig Types](Jig%20Types.md)                                              |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Components](Components.md)                                   | [Actions](Actions.md)                                                    |
-| [Custom components (Alpha)](Custom%20components%20_Alpha_.md) | [Custom templates](Custom%20components%20_Alpha_/Templates%20_Alpha_.md) |
-| [widgets](Widgets.md)                                         | [Preview](Preview.md)                                                    |
-| [Expressions](Expressions.md)                                 | [Notifications](Notifications.md)                                        |
-| [OpenAI integration](OpenAI%20integration.md)                 | [Localization (Translation)](Localization%20_Translation_.md)            |
+| [Data Providers](Data%20Providers.md)                         | [Jig Types](Jig%20Types.md)                                                                                                      |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [Components](Components.md)                                   | [Actions](Actions.md)                                                                                                            |
+| [Custom components (Alpha)](Custom%20components%20_Alpha_.md) | [Custom templates](Custom%20components%20_Alpha_/Templates%20_Alpha_.md)                                                         |
+| [widgets](Widgets.md)                                         | [Preview](Preview.md)                                                                                                            |
+| [Expressions](Expressions.md)                                 | [Notifications](Notifications.md)                                                                                                |
+| [OpenAI integration](OpenAI%20integration.md)                 | [Localization (Translation)](Localization%20_Translation_.md)<br />[Localization (Translation)](Localization%20_Translation_.md) |
 
 Our schema includes various properties that define the structure and characteristics of data entities. Each property is documented with its name, type, allowable values, and detailed description. This section ensures you have a clear understanding of how to use each property to successfully create a Jigx App.
+
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="">
+  <tr>
+    <td>
+      <p>tabel cu liste</p>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+      <li>aaaa
+      <ul>
+      <li>bbbb
+      <ul>
+      <li>cc</li>
+      </ul>
+      </li>
+      </ul>
+      </li>
+      </ul>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+
 
 We have included practical code examples to help you implement and integrate these properties, actions, and components. These examples demonstrate common use cases and best practices, helping you quickly get started and avoid common pitfalls.
 

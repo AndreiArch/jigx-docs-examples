@@ -1,9 +1,4 @@
----
-title: Components
-slug: uU0N-co
-createdAt: Wed Jan 17 2024 10:17:50 GMT+0000 (Coordinated Universal Time)
-updatedAt: Wed Mar 19 2025 10:12:24 GMT+0000 (Coordinated Universal Time)
----
+# Components
 
 Refer to the [Components (controls)](https://docs.jigx.com/components-controls) topic to understand concepts, how to configure components in the different jig types, add data, and actions to components. The topics in this section provide code examples for each component.
 
@@ -36,3 +31,56 @@ Here is a list of all components, the type of category the component forms part 
 | Interactive        | [interactive-image](./Components/interactive-image.md)&#xA;[interactive-image-item](./Components/interactive-image/interactive-image-item.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | default                                                  |
 
 If you not finding a component that works for you, try using [Custom components (Alpha)](<./Custom components _Alpha_.md>) to style a standard component, create a new component, or use a [custom component template](<./Custom components _Alpha_/Templates _Alpha_.md>).
+
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="">
+  <tr>
+    <td>
+      <p>tabel cu liste</p>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+      <li>dada
+      <ul>
+      <li>nununu</li>
+      </ul>
+      </li>
+      </ul>
+      <p>somethingg</p>
+      <div><p>da</p></div>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+:::Paragraph{indent="3"}
+
+:::
+
+:::Paragraph{indent="3"}
+
+:::
