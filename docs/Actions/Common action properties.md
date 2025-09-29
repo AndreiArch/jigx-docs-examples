@@ -2,6 +2,19 @@
 
 Certain properties are shared across all actions, ensuring consistency and flexibility in configuration. These common properties allow you to define behaviors, appearance, and functionality that apply universally, regardless of the specific actions used. This simplifies the setup process and helps maintain uniformity across different jigs.
 
+1. Line 1
+2. Line2
+   1. Line1a
+   2. line2a
+      1. line3a
+         1. line3b
+      2. Checkbox
+
+- [x] checked
+- [ ] not-checked
+
+
+
 ## Icons in actions
 
 Adding an `icon` property in an action only applies to `swipeable`, `secondary`, and `header` actions. Primary actions do not support icon setups.
@@ -22,7 +35,7 @@ Configure `actions` to display two action buttons on the jig's main screen. In t
 :::
 
 :::VerticalSplitItem
-![Dual action buttons & secondary button](https://archbee-image-uploads.s3.amazonaws.com/0TQnKgJpsWhT3gQzQOhdY-TZVU6r07hz0LEPo_3zZ2W-20250225-092012.png "Dual action buttons & secondary button")
+![Dual action buttons & secondary button](https://qa.archbee.co/api/optimize/0TQnKgJpsWhT3gQzQOhdY-TZVU6r07hz0LEPo_3zZ2W-20250225-092012.png "Dual action buttons & secondary button")
 :::
 ::::
 
@@ -64,3 +77,4 @@ actions:
             jobTitle: =@ctx.components.jobTitle.state.value
             companyName: =@ctx.components.companyName.state.value    
 ```
+
