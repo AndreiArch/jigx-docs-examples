@@ -2,6 +2,8 @@
 
 Certain properties are shared across all actions, ensuring consistency and flexibility in configuration. These common properties allow you to define behaviors, appearance, and functionality that apply universally, regardless of the specific actions used. This simplifies the setup process and helps maintain uniformity across different jigs.
 
+blalblcxlvxcvlcxvcxvcxxc
+
 <table isTableHeaderOn="true" selectedColumns="" selectedRows="">
   <tr>
     <td>
