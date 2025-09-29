@@ -2,6 +2,79 @@
 
 Certain properties are shared across all actions, ensuring consistency and flexibility in configuration. These common properties allow you to define behaviors, appearance, and functionality that apply universally, regardless of the specific actions used. This simplifies the setup process and helps maintain uniformity across different jigs.
 
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="">
+  <tr>
+    <td>
+      <p>Lists</p>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ol>
+      <li>sadasdasda</li>
+      <li>asdasdas</li>
+      <li>dasdasdas
+      <ol>
+      <li>asdasdasda
+      <ol>
+      <li>aasdasdas</li>
+      <li>asdasdasdas
+      <ol>
+      <li>asdasdasd</li>
+      <li>asdasdasda</li>
+      </ol>
+      </li>
+      </ol>
+      </li>
+      </ol>
+      </li>
+      </ol>
+    </td>
+    <td>
+      <ul>
+      <li>list</li>
+      <li>asdasd</li>
+      <li>asds
+      <ul>
+      <li>asdasdas</li>
+      <li>sdasdas</li>
+      <li>asdasda</li>
+      <li></li>
+      </ul>
+      </li>
+      </ul>
+      <div></div>
+      <div><p>asdaasdas</p></div>
+      <div><p>asdasdaasd</p></div>
+      <div><p>asdasdasas</p></div>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+
+
 1. Line 1
 2. Line2
    1. Line1a
@@ -12,8 +85,6 @@ Certain properties are shared across all actions, ensuring consistency and flexi
 
 - [x] checked
 - [ ] not-checked
-
-
 
 ## Icons in actions
 
