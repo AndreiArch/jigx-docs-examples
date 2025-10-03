@@ -5,7 +5,9 @@
 &#x20;Due to ongoing issues with Archbee, some content may be incomplete or missing. Jigx is aware of the situation and will be transitioning to a new documentation platform soon. We appreciate your patience and understanding.
 :::
 
+[Setting up your solution](<./Overview/Setting up your solution.md>)&#x20;
 
+[Custom name](<./Overview/Setting up your solution.md>)&#x20;
 
 Welcome to the reference documentation for Jigx. This guide provides detailed information on the properties, actions, and states with practical code examples to help you effectively utilize our schema. This reference content is designed to be a comprehensive resource for all your needs, covering:
 
@@ -40,3 +42,48 @@ We have included practical code examples to help you implement and integrate the
 The code examples are downloadable to guide your development process. The **jigx-samples** solution includes most examples featured in this documentation, offering a hands-on experience to understand how each feature and functionality works.
 
 We provide three convenient options for accessing these resources, ensuring you have the flexibility to choose the method that best suits your needs. See [Setting up your solution](Overview/Setting%20up%20your%20solution.md) for more information.
+
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="">
+  <tr>
+    <td>
+      <p>list</p>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ol>
+      <li>ana
+      <ol>
+      <li>ar</li>
+      </ol>
+      </li>
+      <li></li>
+      </ol>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
