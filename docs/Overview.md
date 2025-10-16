@@ -45,44 +45,43 @@ We provide three convenient options for accessing these resources, ensuring you 
 
 <table isTableHeaderOn="true" selectedColumns="" selectedRows="">
   <tr>
-    <td>
+    <td align="left">
       <p>list</p>
     </td>
-    <td>
+    <td align="left">
     </td>
-    <td>
+    <td align="left">
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="left">
       <ol>
       <li>ana
       <ol>
       <li>ar</li>
       </ol>
       </li>
-      <li></li>
       </ol>
     </td>
-    <td>
+    <td align="left">
     </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
+    <td align="left">
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="left">
     </td>
-    <td>
+    <td align="left">
     </td>
-    <td>
+    <td align="left">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    </td>
+    <td align="left">
+    </td>
+    <td align="left">
     </td>
   </tr>
 </table>
